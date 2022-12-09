@@ -1,0 +1,1 @@
+window.location.href = "https://tundrafile.com/show.php?l=0&u=700241&id=46039&tracking_id=";
